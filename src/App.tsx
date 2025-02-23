@@ -19,9 +19,9 @@ function App() {
   const [showShareToast, setShowShareToast] = useState(false);
 
   const fortunes = [
-    "Your next shared adventure will create memories to cherish forever 🌟",
+    "Our next shared adventure will create memories to cherish forever 🌟",
     "A small gesture of love today will spark extraordinary joy ✨",
-    "The laughter you share together will light up someone else's day 💫",
+    "The laughter we share together will light up someone else's day 💫",
     "Trust your heart's whispers - they're leading you to deeper connection 💕",
     "A moment of vulnerability will strengthen your bond immensely 🤍",
     "Your love inspires others to believe in magic and possibility ✨",
@@ -34,7 +34,8 @@ function App() {
     "Your love has the power to turn ordinary days into adventures ⭐",
     "A simple 'I love you' will mean more than ever today 💕",
     "The way you support each other's dreams makes your love extraordinary ✨",
-    "Your love story is teaching others about the beauty of genuine connection 💫"
+    "Your love story is teaching others about the beauty of genuine connection 💫",
+    "Today is the perfect day for a date. 💐"
   ];
 
   useEffect(() => {
